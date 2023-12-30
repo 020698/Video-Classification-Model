@@ -1,2 +1,3 @@
-# Video-Classification-Model
-Data Science Project using CNN &amp; RNN models.
+# Video-Classifier-Using-CNN-and-RNN
+
+To understand the functionality, Check this video: https://youtu.be/ezjnySXqdTo
